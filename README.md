@@ -12,7 +12,7 @@ cd myproject
 # 安装依赖
 yarn
 
-# 开发时构建
+# 开发时构建dd
 npm dev
 
 # 打包构建
